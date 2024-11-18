@@ -51,4 +51,4 @@ Participação em projetos de migração e implementação, otimizando processos
 ## 📫 Contato  
 
 - LinkedIn: [Bryan Rodrigues da Rosa](https://www.linkedin.com/in/bryan-rodrigues-da-rosa-169168182/)  
-- E-mail: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
+- E-mail: [bryanrodriguesdarosa@gmail.com](mailto:bryanrodriguesdarosa@gmail.com)  
