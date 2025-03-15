@@ -6,6 +6,7 @@ Sou um desenvolvedor com experiência em **Dynamics 365 FO** e **Dynamics AX 201
 
 ## 🎓 Formação Acadêmica
 
+- **Especialização em Engenharia de Software** cursando na PUC Minas  
 - **Análise e Desenvolvimento de Sistemas** pela Uninter  
 
 ---
